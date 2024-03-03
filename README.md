@@ -1,0 +1,2 @@
+# sp-staking
+tea testnet
